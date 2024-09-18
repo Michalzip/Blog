@@ -1,0 +1,113 @@
+.listItem {
+  margin-top: 50px;
+  border-top: 0.5px solid black;
+  margin: 20px 20px 20px 0px;
+  width: 31%;
+}
+
+.listContainer {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  list-style: none;
+  flex-wrap: wrap;
+}
+
+.RecentPostsText {
+  text-align: left;
+  font-size: 32px;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  background-color: rgb(200, 210, 200);
+}
+
+.posts {
+  display: flex;
+  justify-content: center;
+}
+
+.postsContainer {
+  width: 1000px;
+}
+.itemStats {
+  border-top: 0.5px solid black;
+  margin-top: 20px;
+  display: flex;
+  font-size: 13px;
+}
+
+.listContent {
+  margin-bottom: 30px;
+}
+.itemDetails {
+  display: flex;
+  align-items: center;
+}
+.informationAuthor {
+  text-align: left;
+}
+.information {
+  font-size: 10px;
+}
+.itemTitle {
+  text-align: left;
+}
+.itemText {
+  text-align: left;
+  font-size: 13px;
+}
+.date {
+  margin-right: 3px;
+}
+.itemViews {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+}
+.itemLike {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+}
+.postIcon {
+  margin-right: 3px;
+}
+.itemComment {
+  margin-top: 3px;
+}
+
+.item {
+  text-decoration: none;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+}
+.postDetailContainer {
+  border: 0.5px solid black;
+  display: flex;
+  flex-direction: column;
+
+  width: 700px;
+  height: 500px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.subTitle {
+  margin: 25px;
+}
+
+.shareContent {
+  width: 100%;
+  height: 50px;
+  margin-top: auto;
+  margin-bottom: 20px;
+  border-top: 0.5px solid black;
+}
+.postContent {
+  margin-left: 25px;
+  margin-right: 25px;
+}

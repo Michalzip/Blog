@@ -1,0 +1,37 @@
+.listItem {
+  margin-top: 50px;
+  border-top: 0.5px solid black;
+  margin: 20px 20px 20px 0px;
+  width: 31%;
+}
+
+.listContainer {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  list-style: none;
+  flex-wrap: wrap;
+}
+
+.RecentPostsText {
+  text-align: left;
+  font-size: 32px;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  background-color: rgb(200, 210, 200);
+}
+
+.posts {
+  display: flex;
+  justify-content: center;
+}
+
+.postsContainer {
+  width: 1000px;
+}
+.itemStats {
+  border-top: 0.5px solid black;
+  margin-top: 20px;
+  display: flex;
+  font-size: 13px;
+}

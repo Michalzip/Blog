@@ -1,0 +1,15 @@
+.logo {
+  display: flex;
+  margin-left: 2rem;
+  align-items: center;
+  font-size: 30px;
+  font-weight: bo;
+  justify-items: center;
+  color: rgb(244, 222, 201);
+}
+.icon {
+  width: 3rem;
+  height: 10rem;
+  margin-left: 16px;
+  margin-top: 8px;
+}

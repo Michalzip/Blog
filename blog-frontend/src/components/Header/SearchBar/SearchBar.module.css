@@ -1,0 +1,33 @@
+.searchBarContainer {
+  display: flex;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  position: relative;
+}
+.searchContent {
+  position: relative;
+}
+.searchContent input {
+  border: 1px solid white;
+}
+
+.searchBar {
+  outline: 0;
+  padding-left: 15px;
+  background-color: inherit;
+  height: 45px;
+  width: 260px;
+  /* border: 1px solid white; */
+  color: white;
+  &:focus {
+    outline: 0;
+    /* box-shadow: 0px 0px 10px 0.3px rgb(229, 224, 219); */
+  }
+  &::placeholder {
+    font-size: 15px;
+
+    color: white;
+  }
+}

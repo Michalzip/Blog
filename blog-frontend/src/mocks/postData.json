@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "title": "Testowanie Auta",
+    "date": "March 22, 2022",
+    "author": "admin",
+    "readTime": 2,
+    "views": 50,
+    "link": "http://localhost:3000/posts/1",
+    "liked": 14,
+    "text": "Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your audience to continue reading...",
+    "mainText": "Writing a blog is a great way to position yourself as an authority in your field and captivate your readers’ attention. Do you want to improve your site’s SEO ranking? Consider topics that focus on relevant keywords and relate back to your website or business. You can also add hashtags (#vacation #dream #summer) throughout your posts to reach more people, and help visitors search for relevant content. Blogging gives your site a voice, so let your business’ personality shine through. Choose a great image to feature in your post or add a video for extra engagement. Are you ready to get started? Simply create a new post now.",
+    "subTitle": "Welcome to your blog post. Use this space to connect with your readers and potential customers in a way that’s current and interesting. Think of it as an ongoing conversation where you can share updates about business, trends, news, and more. "
+  },
+  {
+    "id": 2,
+    "title": "Kupowanie Auta",
+    "date": "March 22, 2022",
+    "author": "admin",
+    "link": "http://localhost:3000/posts/2",
+    "readTime": 2,
+    "views": 50,
+    "liked": 14,
+    "text": "Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your audience to continue reading...",
+    "mainText": "Writing a blog is a great way to position yourself as an authority in your field and captivate your readers’ attention. Do you want to improve your site’s SEO ranking? Consider topics that focus on relevant keywords and relate back to your website or business. You can also add hashtags (#vacation #dream #summer) throughout your posts to reach more people, and help visitors search for relevant content. Blogging gives your site a voice, so let your business’ personality shine through. Choose a great image to feature in your post or add a video for extra engagement. Are you ready to get started? Simply create a new post now.",
+    "subTitle": "Welcome to your blog post. Use this space to connect with your readers and potential customers in a way that’s current and interesting. Think of it as an ongoing conversation where you can share updates about business, trends, news, and more. "
+  },
+  {
+    "id": 3,
+    "title": "Mycie Auta",
+    "date": "March 22, 2022",
+    "author": "admin",
+    "mainText": "Writing a blog is a great way to position yourself as an authority in your field and captivate your readers’ attention. Do you want to improve your site’s SEO ranking? Consider topics that focus on relevant keywords and relate back to your website or business. You can also add hashtags (#vacation #dream #summer) throughout your posts to reach more people, and help visitors search for relevant content. Blogging gives your site a voice, so let your business’ personality shine through. Choose a great image to feature in your post or add a video for extra engagement. Are you ready to get started? Simply create a new post now.",
+    "link": "http://localhost:3000/posts/3",
+    "readTime": 2,
+    "views": 50,
+    "liked": 14,
+    "text": "Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your audience to continue reading...",
+    "subTitle": "Welcome to your blog post. Use this space to connect with your readers and potential customers in a way that’s current and interesting. Think of it as an ongoing conversation where you can share updates about business, trends, news, and more. "
+  },
+  {
+    "id": 4,
+    "title": "Pielegnacja Auta",
+    "date": "March 22, 2022",
+    "mainText": "Writing a blog is a great way to position yourself as an authority in your field and captivate your readers’ attention. Do you want to improve your site’s SEO ranking? Consider topics that focus on relevant keywords and relate back to your website or business. You can also add hashtags (#vacation #dream #summer) throughout your posts to reach more people, and help visitors search for relevant content. Blogging gives your site a voice, so let your business’ personality shine through. Choose a great image to feature in your post or add a video for extra engagement. Are you ready to get started? Simply create a new post now.",
+    "link": "http://localhost:3000/posts/4",
+    "author": "admin",
+    "readTime": 2,
+    "views": 50,
+    "liked": 14,
+
+    "text": "Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your audience to continue reading...",
+    "subTitle": "Welcome to your blog post. Use this space to connect with your readers and potential customers in a way that’s current and interesting. Think of it as an ongoing conversation where you can share updates about business, trends, news, and more. "
+  },
+  {
+    "id": 5,
+    "title": "Lakierowanie Auta",
+    "date": "March 22, 2022",
+    "link": "http://localhost:3000/posts/5",
+    "author": "admin",
+    "readTime": 2,
+    "views": 50,
+    "mainText": "Writing a blog is a great way to position yourself as an authority in your field and captivate your readers’ attention. Do you want to improve your site’s SEO ranking? Consider topics that focus on relevant keywords and relate back to your website or business. You can also add hashtags (#vacation #dream #summer) throughout your posts to reach more people, and help visitors search for relevant content. Blogging gives your site a voice, so let your business’ personality shine through. Choose a great image to feature in your post or add a video for extra engagement. Are you ready to get started? Simply create a new post now.",
+    "liked": 14,
+    "text": "Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your audience to continue reading...",
+    "subTitle": "Welcome to your blog post. Use this space to connect with your readers and potential customers in a way that’s current and interesting. Think of it as an ongoing conversation where you can share updates about business, trends, news, and more. "
+  },
+  {
+    "id": 6,
+    "title": "Sprzedaz Auta",
+    "date": "March 22, 2022",
+    "link": "http://localhost:3000/posts/6",
+    "author": "admin",
+    "readTime": 2,
+    "views": 50,
+    "liked": 14,
+    "mainText": "Writing a blog is a great way to position yourself as an authority in your field and captivate your readers’ attention. Do you want to improve your site’s SEO ranking? Consider topics that focus on relevant keywords and relate back to your website or business. You can also add hashtags (#vacation #dream #summer) throughout your posts to reach more people, and help visitors search for relevant content. Blogging gives your site a voice, so let your business’ personality shine through. Choose a great image to feature in your post or add a video for extra engagement. Are you ready to get started? Simply create a new post now.",
+    "text": "Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your audience to continue reading...",
+    "subTitle": "Welcome to your blog post. Use this space to connect with your readers and potential customers in a way that’s current and interesting. Think of it as an ongoing conversation where you can share updates about business, trends, news, and more. "
+  }
+]

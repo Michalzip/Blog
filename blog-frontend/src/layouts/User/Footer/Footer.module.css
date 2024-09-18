@@ -1,0 +1,85 @@
+.footer {
+  width: 100%;
+  background-color: rgb(54, 64, 55);
+  height: 25rem;
+  margin-top: auto;
+  min-height: 25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  flex-direction: column;
+}
+
+.subscribeText {
+  width: 330px;
+  font-weight: 50;
+  margin-bottom: 30px;
+}
+
+.footerContent {
+  height: 300px;
+  width: 70%;
+
+  display: flex;
+  justify-content: center;
+}
+.menu {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  text-align: center;
+  margin-right: 2rem;
+  margin-left: 2rem;
+  margin: 0;
+  margin-right: 100px;
+}
+
+.item {
+  font-size: 15px;
+  margin-right: 1rem;
+  font-weight: 100;
+  margin-bottom: 20px;
+}
+.item a {
+  color: #bebebe;
+  text-decoration: none;
+}
+
+.subcribeInputContainer {
+  display: block;
+
+  /* background-color: rgb(161, 145, 145); */
+}
+.subcribeInput {
+  width: 380px;
+  height: 40px;
+  border: 0px;
+  background-color: inherit;
+  outline: none;
+  border: 1px solid white;
+  color: white;
+}
+
+.subcribeInput:focus {
+  border: 1px solid white;
+  outline: none;
+}
+label {
+  font-size: 12px;
+}
+
+.subscribeButton {
+  position: relative;
+  left: 297px;
+  height: 45px;
+  width: 85px;
+  background-color: rgb(152, 108, 67);
+  color: white;
+  border: 0px;
+}
+
+.copyRightSection {
+  font-size: 15px;
+  word-spacing: 2px;
+}

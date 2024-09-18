@@ -1,0 +1,46 @@
+.postDetailContainer {
+  border: 0.5px solid black;
+  display: flex;
+  flex-direction: column;
+
+  width: 700px;
+  height: 500px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.subTitle {
+  margin: 25px;
+}
+
+.shareContent {
+  width: 100%;
+  height: 50px;
+  margin-top: auto;
+
+  border-top: 0.5px solid black;
+}
+.postContent {
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.shareContent {
+  display: flex;
+}
+.item {
+  margin-right: 10px;
+  margin-left: 10px;
+  display: flex;
+}
+.icon {
+  margin-right: 4px;
+}
+.leftContent {
+  display: flex;
+  flex-grow: 2;
+  justify-content: flex-start;
+  align-items: center;
+}
+.rightContent {
+  display: flex;
+  align-items: center;
+}

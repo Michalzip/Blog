@@ -1,0 +1,58 @@
+.registerPage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(19, 35, 2);
+  background-color: rgb(54, 64, 55);
+
+  height: 100vh;
+}
+h1 {
+  color: rgb(244, 222, 201);
+}
+.registerContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("../../assets/bg.jpg");
+  width: 600px;
+  border: 1px solid black;
+  border-radius: 20px;
+  height: 500px;
+  position: relative;
+}
+
+button {
+  background-color: rgb(152, 108, 67);
+  border: 1px solid rgb(152, 108, 67);
+  border-radius: 4px;
+  color: #ffffff;
+  cursor: pointer;
+
+  font-size: 14px;
+  height: 36px;
+  line-height: 27px;
+  min-width: 54px;
+  padding: 0 16px;
+}
+
+button:hover {
+  border-color: rgb(152, 108, 67);
+  box-shadow: rgba(0, 0, 0, 0.1) 0 1px 1px;
+  color: #202124;
+}
+
+.loginHref {
+  position: absolute;
+  bottom: 30px;
+  left: 215px;
+  text-align: center;
+}
+.logInText {
+  text-decoration: underline;
+}
+.text {
+  color: rgb(244, 222, 201);
+  /* color: black; */
+  text-decoration: none;
+}

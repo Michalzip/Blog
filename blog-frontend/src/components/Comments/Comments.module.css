@@ -1,0 +1,42 @@
+.CommentsContainer {
+  height: 150px;
+  width: 600px;
+  border: 0.5px solid black;
+}
+.CommentsContent {
+  margin-left: 30px;
+  margin-right: 30px;
+
+  /* display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; */
+  height: 100%;
+}
+.CommentsTitle {
+  text-align: left;
+  margin-top: 15px;
+
+  width: 100%;
+}
+.CommentsInputContainer {
+  border-top: 0.5px solid black;
+  margin-top: 15px;
+}
+.CommentsInputContainer input {
+  margin-top: 15px;
+  height: 45px;
+  width: 260px;
+}
+
+.buttonContainer {
+  justify-content: left;
+  width: 260px;
+  background-color: red;
+}
+.a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

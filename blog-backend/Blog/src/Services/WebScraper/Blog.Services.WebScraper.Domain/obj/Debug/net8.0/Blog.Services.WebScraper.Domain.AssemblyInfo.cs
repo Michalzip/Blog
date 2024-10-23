@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Blog.Services.WebScraper.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dc64d6ff2e94b98bbe88735f1421c2c0f7b19eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f2ca3617d66a8868418421b4396369e946bac9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Blog.Services.WebScraper.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Blog.Services.WebScraper.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

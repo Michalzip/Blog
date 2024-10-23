@@ -1,5 +1,4 @@
 
-using Blog.Services.Common.Abstractions.Dispatcher;
 using Blog.Services.Common.Abstractions.Endpoints;
 using Blog.Services.WebScraper.Application.ScrapedArticles.Commands.ScrapArticles;
 using MediatR;

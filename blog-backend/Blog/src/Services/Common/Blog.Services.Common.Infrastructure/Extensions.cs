@@ -14,11 +14,7 @@ public  static class Extensions
 
     )
     {
-        // services.AddCommands(assemblies);
-        // services.AddQueries(assemblies);
         services.AddSingleton<IClock, UtcClock>();
-        // services.AddSingleton<IDispatcher, InMemoryDispatcher>();
-        
         return services;
     }
     

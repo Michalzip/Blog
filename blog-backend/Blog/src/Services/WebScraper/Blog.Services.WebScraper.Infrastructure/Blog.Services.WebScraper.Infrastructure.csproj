@@ -12,7 +12,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="EF\ScrapedArticles\a\" />
       <Folder Include="EF\ScrapedArticles\Services\" />
     </ItemGroup>
 

@@ -1,0 +1,25 @@
+using Blog.Services.Common.Infrastructure;
+using Blog.Services.Common.Infrastructure.Endpoints;
+using Blog.Services.WebScraper.Application;
+using Blog.Services.WebScraper.Domain;
+using Blog.Services.WebScraper.Infrastructure;
+using Blog.Services.WebScraper.Presentation;
+
+var builder = WebApplication.CreateBuilder(args);
+builder.Configuration.AddJsonFile("appsettings.Keywords.json");
+builder.Services.AddDomain();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddControllers();
+builder.Services.AddSwaggerGen();
+builder.Services.AddEndpoints(AssemblyReference.Assembly);
+var assemblies = AppDomain.CurrentDomain.GetAssemblies().Where(x => !x.IsDynamic).ToArray();
+builder.Services.AddApplication(assemblies);
+builder.Services.AddInfrastructure();
+builder.Services.AddAbstractionInfrastructure();
+var app = builder.Build();
+app.UseSwagger();
+app.UseSwaggerUI();
+app.UseHttpsRedirection();
+app.MapControllers();
+app.MapEndpoints();
+app.Run();

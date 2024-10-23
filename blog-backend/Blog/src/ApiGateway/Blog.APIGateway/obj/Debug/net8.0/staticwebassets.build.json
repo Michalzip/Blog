@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BtB8GiXWQVZ36WWSclzn1i3khZDQ3nd9qGD2s/swkbk=",
+  "Source": "Blog.APIGateway",
+  "BasePath": "_content/Blog.APIGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

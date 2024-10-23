@@ -1,0 +1,48 @@
+{
+    "configurations": [
+        {
+            "name": "Gateway",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // Jeśli zmieniono platformy docelowe, upewnij się, że zaktualizowano ścieżkę programu.
+            "program": "${workspaceFolder}/src/ApiGateway/Blog.APIGateway/bin/Debug/net8.0/Blog.APIGateway.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/src/ApiGateway/Blog.APIGateway",
+            "stopAtEntry": false,
+            // Włącz uruchamianie przeglądarki internetowej po uruchomieniu platformy ASP.NET Core. Aby uzyskać więcej informacji: https://aka.ms/VSCode-CS-LaunchJson-WebBrowser
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            },
+            "sourceFileMap": {
+                "/Views": "${workspaceFolder}/Views"
+            }
+        },
+        {
+            "name": "WebScraperService",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // Jeśli zmieniono platformy docelowe, upewnij się, że zaktualizowano ścieżkę programu.
+            "program": "${workspaceFolder}/src/Services/WebScraper/Blog.Services.WebScraper.Presentation/bin/Debug/net8.0/Blog.Services.WebScraper.Presentation.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/src/Services/WebScraper/Blog.Services.WebScraper.Presentation",
+            "stopAtEntry": false,
+            // Włącz uruchamianie przeglądarki internetowej po uruchomieniu platformy ASP.NET Core. Aby uzyskać więcej informacji: https://aka.ms/VSCode-CS-LaunchJson-WebBrowser
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            },
+            "sourceFileMap": {
+                "/Views": "${workspaceFolder}/Views"
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/WebScraper/Blog.Services.WebScraper.Domain/bin/Debug/net8.0/Blog.Services.WebScraper.Domain.deps.json
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/WebScraper/Blog.Services.WebScraper.Domain/bin/Debug/net8.0/Blog.Services.WebScraper.Domain.dll
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/WebScraper/Blog.Services.WebScraper.Domain/bin/Debug/net8.0/Blog.Services.WebScraper.Domain.pdb
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/WebScraper/Blog.Services.WebScraper.Domain/obj/Debug/net8.0/Blog.Services.WebScraper.Domain.csproj.AssemblyReference.cache
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/WebScraper/Blog.Services.WebScraper.Domain/obj/Debug/net8.0/Blog.Services.WebScraper.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/WebScraper/Blog.Services.WebScraper.Domain/obj/Debug/net8.0/Blog.Services.WebScraper.Domain.AssemblyInfoInputs.cache
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/WebScraper/Blog.Services.WebScraper.Domain/obj/Debug/net8.0/Blog.Services.WebScraper.Domain.AssemblyInfo.cs
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/WebScraper/Blog.Services.WebScraper.Domain/obj/Debug/net8.0/Blog.Services.WebScraper.Domain.csproj.CoreCompileInputs.cache
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/WebScraper/Blog.Services.WebScraper.Domain/obj/Debug/net8.0/Blog.Services.WebScraper.Domain.sourcelink.json
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/WebScraper/Blog.Services.WebScraper.Domain/obj/Debug/net8.0/Blog.Services.WebScraper.Domain.dll
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/WebScraper/Blog.Services.WebScraper.Domain/obj/Debug/net8.0/refint/Blog.Services.WebScraper.Domain.dll
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/WebScraper/Blog.Services.WebScraper.Domain/obj/Debug/net8.0/Blog.Services.WebScraper.Domain.pdb
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/WebScraper/Blog.Services.WebScraper.Domain/obj/Debug/net8.0/ref/Blog.Services.WebScraper.Domain.dll
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/WebScraper/Blog.Services.WebScraper.Domain/obj/Debug/net8.0/Blog.Ser.A32F04B4.Up2Date
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/WebScraper/Blog.Services.WebScraper.Domain/bin/Debug/net8.0/Blog.Services.Common.Abstractions.dll
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/WebScraper/Blog.Services.WebScraper.Domain/bin/Debug/net8.0/Blog.Services.Common.Abstractions.pdb

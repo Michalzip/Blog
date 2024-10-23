@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Blog.Services.Identity.Infrastructure/1.0.0": {
+        "runtime": {
+          "Blog.Services.Identity.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Blog.Services.Identity.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

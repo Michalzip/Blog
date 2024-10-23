@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Blog.Services.WebScraper.Presentation.props" />
+</Project>

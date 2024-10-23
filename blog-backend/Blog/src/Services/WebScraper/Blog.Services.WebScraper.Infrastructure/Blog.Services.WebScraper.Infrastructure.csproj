@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\Common\Blog.Services.Common.Infrastructure\Blog.Services.Common.Infrastructure.csproj" />
+      <ProjectReference Include="..\Blog.Services.WebScraper.Application\Blog.Services.WebScraper.Application.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="EF\ScrapedArticles\a\" />
+      <Folder Include="EF\ScrapedArticles\Services\" />
+    </ItemGroup>
+
+</Project>

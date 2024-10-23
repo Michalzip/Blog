@@ -1,0 +1,12 @@
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Infrastructure/bin/Debug/net8.0/Blog.Services.Identity.Infrastructure.deps.json
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Infrastructure/bin/Debug/net8.0/Blog.Services.Identity.Infrastructure.dll
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Infrastructure/bin/Debug/net8.0/Blog.Services.Identity.Infrastructure.pdb
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Infrastructure/obj/Debug/net8.0/Blog.Services.Identity.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Infrastructure/obj/Debug/net8.0/Blog.Services.Identity.Infrastructure.AssemblyInfoInputs.cache
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Infrastructure/obj/Debug/net8.0/Blog.Services.Identity.Infrastructure.AssemblyInfo.cs
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Infrastructure/obj/Debug/net8.0/Blog.Services.Identity.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Infrastructure/obj/Debug/net8.0/Blog.Services.Identity.Infrastructure.sourcelink.json
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Infrastructure/obj/Debug/net8.0/Blog.Services.Identity.Infrastructure.dll
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Infrastructure/obj/Debug/net8.0/refint/Blog.Services.Identity.Infrastructure.dll
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Infrastructure/obj/Debug/net8.0/Blog.Services.Identity.Infrastructure.pdb
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Infrastructure/obj/Debug/net8.0/ref/Blog.Services.Identity.Infrastructure.dll

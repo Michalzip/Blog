@@ -1,0 +1,16 @@
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Infrastructure/bin/Debug/net8.0/Blog.Services.Common.Infrastructure.deps.json
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Infrastructure/bin/Debug/net8.0/Blog.Services.Common.Infrastructure.dll
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Infrastructure/bin/Debug/net8.0/Blog.Services.Common.Infrastructure.pdb
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Infrastructure/obj/Debug/net8.0/Blog.Services.Common.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Infrastructure/obj/Debug/net8.0/Blog.Services.Common.Infrastructure.AssemblyInfoInputs.cache
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Infrastructure/obj/Debug/net8.0/Blog.Services.Common.Infrastructure.AssemblyInfo.cs
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Infrastructure/obj/Debug/net8.0/Blog.Services.Common.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Infrastructure/obj/Debug/net8.0/Blog.Services.Common.Infrastructure.sourcelink.json
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Infrastructure/obj/Debug/net8.0/Blog.Services.Common.Infrastructure.dll
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Infrastructure/obj/Debug/net8.0/refint/Blog.Services.Common.Infrastructure.dll
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Infrastructure/obj/Debug/net8.0/Blog.Services.Common.Infrastructure.pdb
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Infrastructure/obj/Debug/net8.0/ref/Blog.Services.Common.Infrastructure.dll
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Infrastructure/bin/Debug/net8.0/Blog.Services.Common.Abstractions.dll
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Infrastructure/bin/Debug/net8.0/Blog.Services.Common.Abstractions.pdb
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Infrastructure/obj/Debug/net8.0/Blog.Services.Common.Infrastructure.csproj.AssemblyReference.cache
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Infrastructure/obj/Debug/net8.0/Blog.Ser.E9CF21AF.Up2Date

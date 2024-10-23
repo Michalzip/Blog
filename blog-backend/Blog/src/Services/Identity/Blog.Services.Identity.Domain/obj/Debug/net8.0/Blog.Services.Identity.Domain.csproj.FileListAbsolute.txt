@@ -1,0 +1,15 @@
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Domain/bin/Debug/net8.0/Blog.Services.Identity.Domain.deps.json
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Domain/bin/Debug/net8.0/Blog.Services.Identity.Domain.dll
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Domain/bin/Debug/net8.0/Blog.Services.Identity.Domain.pdb
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Domain/obj/Debug/net8.0/Blog.Services.Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Domain/obj/Debug/net8.0/Blog.Services.Identity.Domain.AssemblyInfoInputs.cache
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Domain/obj/Debug/net8.0/Blog.Services.Identity.Domain.AssemblyInfo.cs
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Domain/obj/Debug/net8.0/Blog.Services.Identity.Domain.csproj.CoreCompileInputs.cache
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Domain/obj/Debug/net8.0/Blog.Services.Identity.Domain.sourcelink.json
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Domain/obj/Debug/net8.0/Blog.Services.Identity.Domain.dll
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Domain/obj/Debug/net8.0/refint/Blog.Services.Identity.Domain.dll
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Domain/obj/Debug/net8.0/Blog.Services.Identity.Domain.pdb
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Domain/obj/Debug/net8.0/ref/Blog.Services.Identity.Domain.dll
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Domain/bin/Debug/net8.0/Blog.Services.Identity.Domain.runtimeconfig.json
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Domain/obj/Debug/net8.0/Blog.Services.Identity.Domain.csproj.AssemblyReference.cache
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Domain/obj/Debug/net8.0/Blog.Services.Identity.Domain.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cvwYr4X3B9kgSK4zEQH2PGMHnSf/bF2lQMfOL1zPDTY=",
+  "Source": "Blog.Services.WebScraper.Presentation",
+  "BasePath": "_content/Blog.Services.WebScraper.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

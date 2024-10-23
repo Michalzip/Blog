@@ -1,0 +1,12 @@
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Presentation/bin/Debug/net8.0/Blog.Services.Identity.Presentation.deps.json
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Presentation/bin/Debug/net8.0/Blog.Services.Identity.Presentation.dll
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Presentation/bin/Debug/net8.0/Blog.Services.Identity.Presentation.pdb
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Presentation/obj/Debug/net8.0/Blog.Services.Identity.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Presentation/obj/Debug/net8.0/Blog.Services.Identity.Presentation.AssemblyInfoInputs.cache
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Presentation/obj/Debug/net8.0/Blog.Services.Identity.Presentation.AssemblyInfo.cs
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Presentation/obj/Debug/net8.0/Blog.Services.Identity.Presentation.csproj.CoreCompileInputs.cache
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Presentation/obj/Debug/net8.0/Blog.Services.Identity.Presentation.sourcelink.json
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Presentation/obj/Debug/net8.0/Blog.Services.Identity.Presentation.dll
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Presentation/obj/Debug/net8.0/refint/Blog.Services.Identity.Presentation.dll
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Presentation/obj/Debug/net8.0/Blog.Services.Identity.Presentation.pdb
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Identity/Blog.Services.Identity.Presentation/obj/Debug/net8.0/ref/Blog.Services.Identity.Presentation.dll

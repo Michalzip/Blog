@@ -1,0 +1,13 @@
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Abstractions/bin/Debug/net8.0/Blog.Services.Common.Abstractions.deps.json
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Abstractions/bin/Debug/net8.0/Blog.Services.Common.Abstractions.dll
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Abstractions/bin/Debug/net8.0/Blog.Services.Common.Abstractions.pdb
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Abstractions/obj/Debug/net8.0/Blog.Services.Common.Abstractions.csproj.AssemblyReference.cache
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Abstractions/obj/Debug/net8.0/Blog.Services.Common.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Abstractions/obj/Debug/net8.0/Blog.Services.Common.Abstractions.AssemblyInfoInputs.cache
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Abstractions/obj/Debug/net8.0/Blog.Services.Common.Abstractions.AssemblyInfo.cs
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Abstractions/obj/Debug/net8.0/Blog.Services.Common.Abstractions.csproj.CoreCompileInputs.cache
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Abstractions/obj/Debug/net8.0/Blog.Services.Common.Abstractions.sourcelink.json
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Abstractions/obj/Debug/net8.0/Blog.Services.Common.Abstractions.dll
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Abstractions/obj/Debug/net8.0/refint/Blog.Services.Common.Abstractions.dll
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Abstractions/obj/Debug/net8.0/Blog.Services.Common.Abstractions.pdb
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Abstractions/obj/Debug/net8.0/ref/Blog.Services.Common.Abstractions.dll

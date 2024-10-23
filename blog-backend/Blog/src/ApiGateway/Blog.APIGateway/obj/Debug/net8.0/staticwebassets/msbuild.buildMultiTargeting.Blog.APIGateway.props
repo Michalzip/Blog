@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Blog.APIGateway.props" />
+</Project>

@@ -1,0 +1,39 @@
+.message {
+  border: 0.5px solid black;
+  margin-bottom: 20px;
+  margin-left: 5%;
+  margin-right: 5%;
+  height: 100%;
+  /* padding: 12px; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.userImage {
+  width: 70px;
+  height: 70px;
+}
+.userData {
+  display: flex;
+  /* border-right: 0.5px solid black; */
+}
+
+.likes {
+  margin-right: 10px;
+}
+.likeData {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.date {
+  height: 100%;
+}
+.likeData {
+  margin-top: 20%;
+  height: 100%;
+}
+.userComment {
+  text-align: center;
+}

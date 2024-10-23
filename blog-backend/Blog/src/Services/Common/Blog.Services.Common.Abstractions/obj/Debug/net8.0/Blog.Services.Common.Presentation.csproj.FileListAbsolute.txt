@@ -1,0 +1,13 @@
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Presentation/bin/Debug/net8.0/Blog.Services.Common.Presentation.deps.json
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Presentation/bin/Debug/net8.0/Blog.Services.Common.Presentation.dll
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Presentation/bin/Debug/net8.0/Blog.Services.Common.Presentation.pdb
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Presentation/obj/Debug/net8.0/Blog.Services.Common.Presentation.csproj.AssemblyReference.cache
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Presentation/obj/Debug/net8.0/Blog.Services.Common.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Presentation/obj/Debug/net8.0/Blog.Services.Common.Presentation.AssemblyInfoInputs.cache
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Presentation/obj/Debug/net8.0/Blog.Services.Common.Presentation.AssemblyInfo.cs
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Presentation/obj/Debug/net8.0/Blog.Services.Common.Presentation.csproj.CoreCompileInputs.cache
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Presentation/obj/Debug/net8.0/Blog.Services.Common.Presentation.sourcelink.json
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Presentation/obj/Debug/net8.0/Blog.Services.Common.Presentation.dll
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Presentation/obj/Debug/net8.0/refint/Blog.Services.Common.Presentation.dll
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Presentation/obj/Debug/net8.0/Blog.Services.Common.Presentation.pdb
+/Users/michal/Desktop/Blog/blog-backend/Blog/src/Services/Common/Blog.Services.Common.Presentation/obj/Debug/net8.0/ref/Blog.Services.Common.Presentation.dll

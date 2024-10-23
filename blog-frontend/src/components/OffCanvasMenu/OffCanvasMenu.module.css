@@ -1,9 +1,59 @@
 .sidenav {
-  background: rgb(50, 60, 60);
-  width: 150px;
+  border-right: 0.5px solid black;
+  width: 30%;
+  height: 100%; /* Upewnij się, że to jest 100% */
   position: absolute;
-  left: 0;
+  left: -100%; /* Ukryte na początku */
   top: 0;
-  bottom: 0;
-  padding-top: 100px;
+  transition: left 0.3s ease; /* Płynne przejście */
+  display: flex;
+  flex-direction: column;
+}
+
+.sidenav.open {
+  left: 0; /* Wysuwane do widoku */
+}
+
+.title {
+  text-align: center;
+  font-size: 23px;
+  margin-top: 20px;
+  height: 50px;
+  border-bottom: 1px solid black;
+}
+
+.MessageInput {
+  background-color: red;
+  width: 100%;
+}
+
+.MessageInput input {
+  width: 100%;
+  height: 40px;
+  border: 0px;
+  border-bottom: 0.5px solid black;
+  padding-left: 15px;
+}
+
+.CommentButton {
+  background-color: rgb(152, 108, 67);
+  border: 1px solid rgb(152, 108, 67);
+  border-radius: 4px;
+  color: #ffffff;
+  cursor: pointer;
+  font-size: 14px;
+  height: 40px;
+  line-height: 27px;
+  min-width: 54px;
+  padding: 0 16px;
+}
+
+.CommentButton:hover {
+  border-color: rgb(152, 108, 67);
+  box-shadow: rgba(0, 0, 0, 0.1) 0 1px 1px;
+  color: #202124;
+}
+
+.MessageInputContainer {
+  display: flex;
 }

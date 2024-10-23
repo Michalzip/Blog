@@ -1,10 +1,9 @@
-export const CodeIcon = (props) => (
+export const CodeIcon = () => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     width="100%"
     height="100%"
     viewBox="0 0 256 256"
-    {...props}
   >
     <path fill="rgba(255, 255, 255, 0)" d="M0 0h256v256H0z" />
     <path

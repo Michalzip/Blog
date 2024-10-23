@@ -47,7 +47,9 @@ export default function RegisterForm() {
       </div>
 
       <div className={classess.field}>
-        <button type="submit">Submit</button>
+        <button className={classess.authButton} type="submit">
+          Submit
+        </button>
       </div>
     </form>
   );

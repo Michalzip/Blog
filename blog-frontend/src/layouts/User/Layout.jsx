@@ -19,10 +19,10 @@ export function Layout() {
       <body>
         <SearchProvider>
           <Header />
-          <main>
-            <Outlet />
-          </main>
         </SearchProvider>
+        <main>
+          <Outlet />
+        </main>
         <Footer />
       </body>
     </html>

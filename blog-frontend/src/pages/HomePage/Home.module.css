@@ -10,6 +10,9 @@
 
 @media (max-width: 1920px) {
   .ImageBackground {
-    height: 500px; /* Ustaw inną wysokość dla mniejszych ekranów */
+    height: 500px;
   }
+}
+.HomePage {
+  width: 100%;
 }
